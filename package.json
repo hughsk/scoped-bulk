@@ -1,6 +1,6 @@
 {
   "name": "scoped-bulk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run a command from every installed npm package under a certain scope",
   "main": "index.js",
   "license": "MIT",
