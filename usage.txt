@@ -1,0 +1,2 @@
+Usage:
+  scoped-bulk <namespace> <command...>
